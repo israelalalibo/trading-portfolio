@@ -1,0 +1,18 @@
+# Source artefacts (originals kept locally, not deployed)
+/pictures of me/
+/certificates/
+convert_assets.py
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Vercel
+.vercel/
+
+# Node (not used, but just in case)
+node_modules/
+npm-debug.log*
